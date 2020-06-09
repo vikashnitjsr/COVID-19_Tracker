@@ -1,0 +1,7 @@
+PLEASE DOWNLOAD YOLOV3 MODEL FROM BELOW LINK   AND KEEP ALL DOWNLOADED  FILES  INSIDE THIS FOLDER
+https://drive.google.com/drive/folders/1s5yXMDwjcUsfX5VxuFFAZrPIjkbiQ7h6?usp=sharing
+
+
+TO EXECUTE FOLLOW THIS
+
+python social_distance_detector.py --input pedestrians.mp4 --output output.avi
