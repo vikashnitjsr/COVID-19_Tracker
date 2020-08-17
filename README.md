@@ -8,3 +8,11 @@
 ## 2. Video2 Output
 
 ![](https://github.com/vikashnitjsr/COVID-19_Tracker/blob/master/output.gif)
+
+
+## Technology Used:
+#### OpenCV (for frame/image processing )
+#### DeepLearning (Used YOLO V3 Pretrained model for object Detection-(used filter for people indentification only)
+#### Centroid Tracking Algo(For object  tracking)
+
+##### If Any Doubt Feel free to reach out me at : vikashcsenitjsr@gmail.com 
