@@ -16,3 +16,4 @@
 #### Centroid Tracking Algo(For object  tracking)
 
 ##### If Any Doubt Feel free to reach out me at : vikashcsenitjsr@gmail.com 
+## This is awesome project for maintaining social distancing.
