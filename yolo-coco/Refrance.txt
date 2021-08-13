@@ -1,7 +1,6 @@
 PLEASE DOWNLOAD YOLOV3 MODEL FROM BELOW LINK   AND KEEP THIS DOWNLOADED  FILE  INSIDE THIS FOLDER
 
-https://drive.google.com/file/d/1nCUW7fruWwBEgO24lzdn4keAzXPoHL7D/view?usp=sharing
-
+https://pjreddie.com/media/files/yolov3.weights
 
 
 
